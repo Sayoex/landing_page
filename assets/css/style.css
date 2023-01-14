@@ -507,6 +507,10 @@ body {
     #ABOUT 2
   \*-----------------------------------*/
 
+.about-2 {
+    background-color: var(--cultured-3);
+}
+
 .about-2 .section-text:last-of-type {
     margin-block: 30px;
 }
